@@ -18,4 +18,4 @@ I have created a mask (mask.jpg). Please run the code by
 
 'python inpaint.py' 
 
-and it will create a masked image in the directory.
+and it will create a masked image in the data directory.
