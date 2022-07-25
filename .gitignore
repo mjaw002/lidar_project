@@ -1,3 +1,4 @@
 models/frozen_inference_graph.pb
 models/hifill.pb
 models/mask_rcnn_inception_v2_coco_2018_01_28.pbtxt
+models.zip
